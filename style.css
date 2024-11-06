@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: rgb(254, 245, 238) ;}
+header, section, footer { padding: 20px; text-align: center; }
+header { background: url('https://cdn.discordapp.com/attachments/1300130644495433781/1301694598879379526/Picsart_24-10-31_20-49-10-778.jpg?ex=67256910&is=67241790&hm=048cd5d8e6206ae7f6be62ac9a7fd7d44fb54c60f0e4f67bb8fd994dbcdc86a0&') no-repeat center center/cover; color: #987569; height: 300px; display: flex; flex-direction: column; justify-content: flex-end; }
+header h1 { font-size: 2.5em; margin: 0; }
+header p { font-size: 1.2em; margin: 10px 0; }
+.button { padding: 10px 20px; background-color: #987569; color: white; text-decoration: none; border-radius: 5px; }
+nav a { margin: 0 10px; text-decoration: none; color: #987569; }
+section { max-width: 800px; margin: auto; padding: 20px; }
+footer { background: #f1f1f1; color: #333; }
+.team-member img { border-radius: 50%; width: 100px; }
+.faq-question { font-weight: bold; margin-top: 15px; }
